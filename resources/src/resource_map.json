@@ -1,0 +1,21 @@
+{
+    "media": [
+        {
+            "defName": "LEFT",
+            "type": "png",
+            "file": "images/LEFT.png"
+        },
+        {
+            "defName": "RIGHT",
+            "type": "png",
+            "file": "images/RIGHT.png"
+        },
+        {
+            "defName": "UP",
+            "type": "png",
+            "file": "images/UP.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
